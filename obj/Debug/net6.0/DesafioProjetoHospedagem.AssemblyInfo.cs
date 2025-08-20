@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioProjetoHospedagem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce5767f6fc8ea0c3c2e5536c614a5b2ccf30538c")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioProjetoHospedagem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioProjetoHospedagem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
